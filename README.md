@@ -6,7 +6,7 @@ with people. I love creating effective web application campaigns for clients.
 Skills: Python/Django/PHP/Laravel/HTML/CSS/JS
 
 - 🔭 I’m currently working on Backend Development 
-- 🌱 I’m currently learning Vue Js 
+- 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on Web Developers 
 - 💬 Ask me about Web Development 
 
