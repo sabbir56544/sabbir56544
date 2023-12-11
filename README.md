@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sabbir-ahmed-4a500321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sabbir Ahmed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sabbihmed_98/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sabbir Ahmed" height="30" width="40" /></a>
+<a href="https://github.com/sabbir56544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sabbir Ahmed" height="30" width="40" /></a>
 
 </p>
 
